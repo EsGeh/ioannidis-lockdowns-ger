@@ -23,7 +23,7 @@ institute:
 	- name: Meta-­Research Innovation Center at Stanford (METRICS), Stanford University, Stanford, CA, USA
 	  number: 6
 subtitle: "Übersetzung: Samuel Gfrörer"
-date-note: "Veröffentlichungsdatum des Originalartikels: 2021-01-05"
+date-note: "Originalartikel veröffentlicht am 2021-01-05"
 numbersections: true
 papersize: a4
 documentclass: scrartcl

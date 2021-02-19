@@ -10,7 +10,7 @@ mkdir --parents "$PDF_DIR"
 for path in (find $MARKDOWN_DIR -name '*.md')
 	set output_filename (string split --right --max 1 '.' $path)[1]
 	set output_path $BASE_DIR/pdf/(basename $output_filename).pdf
-	set date (date +'%Y-%m-%d')
+	set date "Ver. "(date +'%Y-%m-%d')
 	set cmd pandoc \
 		--metadata date=$date \
 		--template $BASE_DIR/templates/default.latex \
@@ -22,4 +22,3 @@ for path in (find $MARKDOWN_DIR -name '*.md')
 	# sed 's/<!--\s*\([^?]*\)???\s*-->/("\1"???)/g' $input_file.md |
 	# 	pandoc --template templates/default.latex -o $input_file"_questions.pdf"
 end
-exit
