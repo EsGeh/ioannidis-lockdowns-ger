@@ -31,12 +31,15 @@ This repository as well as the created PDF is published under the terms of the C
 
 ## Prerequisites
 
+You'll need the following tools to be installed on your system:
+
 - pandoc
+- pandoc-crossref
 - latex
 - fish shell
 
 ## Create Output
 
-$ ./scripts/create_pdf.fish
+$ ./scripts/create_output.fish
 
-This will render output to `./pdf/`
+This will render output to `./output/`

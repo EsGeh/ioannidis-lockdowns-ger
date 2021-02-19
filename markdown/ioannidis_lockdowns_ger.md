@@ -28,6 +28,8 @@ numbersections: true
 papersize: a4
 documentclass: scrartcl
 lang: de
+figureTitle: "Abbildung"
+figPrefix: ["Abbildung", "Abbildungen"]
 copyright: |
 	This is a german translation of the original paper "Bendavid, E, Oh, C, Bhattacharya, J, Ioannidis, JPA. Assessing mandatory stay‐at‐home and business closure effects on the spread of COVID‐19. Eur J Clin Invest. 2020; 00:e13484. https://doi.org/10.1111/eci.13484".
 	Copyright of the translation: \copyright 2021 Samuel Gfrörer.
@@ -308,7 +310,7 @@ The variation of pre-­policy growth rates in cases may reflect epidemic intensi
 -->
 
 \hypertarget{ergebnisse-p1}{}
-Die Zuwachsrate neuer Fälle war vor der Umsetzung jeglicher NPIs in allen betrachteten Ländern positiv (Abbildung 1).
+Die Zuwachsrate neuer Fälle war vor der Umsetzung jeglicher NPIs in allen betrachteten Ländern positiv ([@fig:fig1]).
 Die Abbildung zeigt, dass die durchschnittliche Zuwachsrate, über alle subnationalen Einheiten aller zehn Länder hinweg, zwischen 0,23 in Spanien (23% tägliche Zunahme, 95% CI 0,13 bis 0,34) und 0,47 (95% CI 0,39 bis 0,55) in den Niederlanden lag.
 Der Durchschnitt über alle 10 Länder war 0,32 und in Südkorea und Schweden, den Ländern ohne mrNPIs, war die Zuwachsrate vor den NPIs 0,25, bzw. 0.33.
 Die Änderung der Zuwachsrate der Fälle vor den Maßnahmen dürfte die Intensität der Epidemie wiederspiegeln, die Testabdeckung (höhere Zuwachs könnte auf eine Ausweitung der Testkapazität zurückgehen und auf darauf, dass mehr Menschen getestet werden möchten) und Verhaltensänderungen vor den Regelungen, die zu einer Zunahme oder Abnahme von Übertragungen geführt haben.
@@ -317,7 +319,7 @@ Die Änderung der Zuwachsrate der Fälle vor den Maßnahmen dürfte die Intensit
 Growth rate in cases for study countries. The black bars demonstrate the average growth rate in cases in each subnational unit (95% CI) prior to any policies implemented. The figures to the right show the daily growth rate in cases for each of the countries and demonstrate the shared decline in case growth across all countries, including the countries that did not implement mrNPIs (South Korea and Sweden)
 -->
 
-![Zuwachsrate von Fällen in den betrachteten Ländern. Die schwarzen Balken zeigen die durchschnittliche Zuwachsrate von Fällen in jeder subnationalen Einheit (95% CI) vor der Umsetzung jeglicher Regelungen. Die Diagramme auf der rechten Seite stellen die tägliche Zuwachsrate in Fällen für jedes Land dar und zeigen den gemeinsamen Rückgan in allen Ländern, inklusive von Ländern, die keine mrNPIs umgesetzt haben (Südkorea und Schweden)](img/eci13484-fig-0001-m.jpg){ width=100% }
+![Zuwachsrate von Fällen in den betrachteten Ländern. Die schwarzen Balken zeigen die durchschnittliche Zuwachsrate von Fällen in jeder subnationalen Einheit (95% CI) vor der Umsetzung jeglicher Regelungen. Die Diagramme auf der rechten Seite stellen die tägliche Zuwachsrate in Fällen für jedes Land dar und zeigen den gemeinsamen Rückgan in allen Ländern, inklusive von Ländern, die keine mrNPIs umgesetzt haben (Südkorea und Schweden)](img/eci13484-fig-0001-m.jpg){ width=100% #fig:fig1}
 
 <!--
 Figures 2 and 3 and demonstrate the effects of individual NPIs (Figure 2) and all NPIs combined (Figure 3) on daily growth in case counts.
@@ -327,22 +329,22 @@ Spain was the only country where the effect of NPIs was not distinguishable from
 -->
 
 \hypertarget{ergebnisse-p2}{}
-Abbildung 2 und Abbildung 3 zeigen den Einfluss einzelner NPIs (Abbildung 2) und aller NPIs gemeinsam (Abbildung 3) auf die tägliche Zunahme der Fallzahlen.
+[@fig:fig2] und [@fig:fig3] zeigen den Einfluss einzelner NPIs ([@fig:fig2]) und aller NPIs gemeinsam ([@fig:fig3]) auf die tägliche Zunahme der Fallzahlen.
 Während der Einfluss von 3 einzelnen NPIs positiv war - das heißt paradoxerweise zu einer Zunahme der Fälle beitrug - und signifikant (eine in Deutschland, eine in Italien und eine in Spanien von 51 einzelnen NPIs in allen 10 Ländern), war der Einfluss von ungefähr der Hälfte der einzelnen NPIs negativ und signifikant.
-Die gemeinsame Wirkung aller NPIs (Abbildung 3) war negativ und signifikant in 9 von 10 Ländern, wobei die zusammengefasste Wirkung im Bereich zwischen -0,10 (95% CI: -0,06 bis -0,13) in England und -0,33 (95% CI: -0,09 bis -0,57) in Südkorea lag.
+Die gemeinsame Wirkung aller NPIs ([@fig:fig3]) war negativ und signifikant in 9 von 10 Ländern, wobei die zusammengefasste Wirkung im Bereich zwischen -0,10 (95% CI: -0,06 bis -0,13) in England und -0,33 (95% CI: -0,09 bis -0,57) in Südkorea lag.
 Spanien war das einzige Land, wo die Wirkung der NPIs nicht von 0 unterscheidbar war (-0,02; 95% CI: -0,12 bis 0,07).
 
 <!--
 Effects of individual NPIs in all study countries. The variation in the timing and location of NPI implementation allows us to identify the effects of individual NPIs on the daily growth rate of cases. Where multiple NPIs were implemented simultaneously (in the same day) across all subnational units (eg school closure, work from home and no private gatherings in Spain), their overall effect cannot be identified individually and is shown combined
 -->
 
-![Der Einfluss der einzelnen NPIs in allen betrachteten Ländern. Die Änderung im Ort und im Zeitplan erlauben uns, die Auswirkungen einzelner NPIs auf die tägliche Zuwachsrate von Fällen zu identifizieren. Wo mehrere NPIs gleichzeitig in allen subnationalen Einheiten umgesetzt wurden (am selben Tag) (z.B. Schulschließungen, Arbeiten von zu Hause u. keine privaten Treffen in Spanien), kann der gemeinsame Effekt nicht einzeln identifiziert werden und wird zusammengefasst dargestellt](img/eci13484-fig-0002-m.jpg){ width=100% }
+![Der Einfluss der einzelnen NPIs in allen betrachteten Ländern. Die Änderung im Ort und im Zeitplan erlauben uns, die Auswirkungen einzelner NPIs auf die tägliche Zuwachsrate von Fällen zu identifizieren. Wo mehrere NPIs gleichzeitig in allen subnationalen Einheiten umgesetzt wurden (am selben Tag) (z.B. Schulschließungen, Arbeiten von zu Hause u. keine privaten Treffen in Spanien), kann der gemeinsame Effekt nicht einzeln identifiziert werden und wird zusammengefasst dargestellt](img/eci13484-fig-0002-m.jpg){ width=100% #fig:fig2}
 
 <!--
 Combined effects of all NPIs in study countries. The point estimate and 95% CI of the combined effect of NPIs on growth rate in cases, estimated from a combination of individual NPIs. The estimates show significant effects in all countries except Spain and range from a 33% (9%‐57%) decline in South Korea to 10% (6%‐13%) in England. The point estimate of the effect in Spain is also negative but small (2%) and not significant
 -->
 
-![Gemeinsamer Einfluss aller NPIs in den betrachteten Ländern. Der Punktschätzer und die 95% Konfidenzintervall der gemeinsamen Wirkung auf die Zuwachsrate in Fällen, berechnet aus der Kombination der einzelnen NPIs. Die Schätzung zeigt einen signifikante Einfluss in allen Ländern, außer in Spanien, und reicht von einem 33%-igen Rückgang (9% - 57%) in Südkorea bis zu einem 10%-igen (6% - 13%) in England. Die Punktschätzer für den Einfluss in Spanien sind auch negativ, aber klein (2%) und nicht signifikant](img/eci13484-fig-0003-m.jpg){ width=100% }
+![Gemeinsamer Einfluss aller NPIs in den betrachteten Ländern. Der Punktschätzer und die 95% Konfidenzintervall der gemeinsamen Wirkung auf die Zuwachsrate in Fällen, berechnet aus der Kombination der einzelnen NPIs. Die Schätzung zeigt einen signifikante Einfluss in allen Ländern, außer in Spanien, und reicht von einem 33%-igen Rückgang (9% - 57%) in Südkorea bis zu einem 10%-igen (6% - 13%) in England. Die Punktschätzer für den Einfluss in Spanien sind auch negativ, aber klein (2%) und nicht signifikant](img/eci13484-fig-0003-m.jpg){ width=100% #fig:fig3}
 
 <!--
 Figure 4 shows the effect of mrNPIs in the 8 countries where mrNPIs were implemented, after accounting for the effects of lrNPIs and underlying epidemic dynamics.
@@ -353,7 +355,7 @@ The 95% confidence intervals excluded a 30% reduction in daily growth in all 16 
 -->
 
 \hypertarget{ergebnisse-p3}{}
-Abbildung 4 zeigt die Wirkung von mrNPIs in den 8 Ländern, in denen mrNPIs umgesetzt wurden, nach dem Herausrechnen der Effekte von lrNPIs und der zugrundeliegenden epidemischen Dynamik.
+[@fig:fig4] zeigt die Wirkung von mrNPIs in den 8 Ländern, in denen mrNPIs umgesetzt wurden, nach dem Herausrechnen der Effekte von lrNPIs und der zugrundeliegenden epidemischen Dynamik.
 In keinem der 8 Länder und in keinem der 16 Vergleiche (mit Schweden und Südkorea) waren der Einfluss von mrNPIs signifikant negativ (vorteilhaft).
 Der Punktschätzer war positiv (zeigten in Richtung einer Steigerung der täglichen Zuwachses aufgrund von mrNPIs) in 12 von 16 Vergleichen (signifikant positiv in 3 von 12, beim Vergleich Spanien und in England mit Schweden).
 Das einzige Land, in dem der Punktschätzer für den Einfluss von mrNPIs in beiden Vergleichen negativ war, ist der Iran (-0,07 [95% CI: -0,21 bis -0,07] beim Vergleich mit Schweden; -0,02 [95% CI: -0,28 bis -0,25] beim Vergleich mit Südkorea).
@@ -363,7 +365,7 @@ Das Konfidenzintervall von 95% schließt einen 30%-igen Rückgang des täglichen
 Effect of mrNPIs on daily growth rates after accounting for the effects of lrNPIs in South Korea and Sweden. Under no comparison is there evidence of reduction in case growth rates from mrNPIs, in any country. The point estimates are positive (point in the direction of mrNPIs resulting in increased daily growth in cases) in 12 out of 16 comparisons
 -->
 
-![Der Einfluss von mrNPIs auf die tägliche Zuwachsrate der Fälle nach dem Herausrechnen der Effekte von lrNPIs in Südkorea und Schweden. Bei keinem Vergleich gibt es Anzeichen für einen Rückgang der Zuwachsrate von Fällen aufgrund von mrNPIs, in keinem Land. Die Punktschätzer sind in 12 von 16 Vergleichen positiv (zeigen in Richtung einer Steigerung des täglichen Zuwachses an Fällen)](img/eci13484-fig-0004-m.jpg){ width=100% }
+![Der Einfluss von mrNPIs auf die tägliche Zuwachsrate der Fälle nach dem Herausrechnen der Effekte von lrNPIs in Südkorea und Schweden. Bei keinem Vergleich gibt es Anzeichen für einen Rückgang der Zuwachsrate von Fällen aufgrund von mrNPIs, in keinem Land. Die Punktschätzer sind in 12 von 16 Vergleichen positiv (zeigen in Richtung einer Steigerung des täglichen Zuwachses an Fällen)](img/eci13484-fig-0004-m.jpg){ width=100% #fig:fig4}
 
 # Diskussion
 
@@ -420,7 +422,7 @@ Daten über das individuelle Verhalten, wie den Besuch von Geschäften, Spazierg
 Diese Beobachtungen stimmen mit einem Modell überein, nach dem die von Individuen wahrgenommene Schwere des Risikos ein stärkerer Antrieb für ansteckungsminderndes Verhalten war, als der spezifische Inhalt von NPIs.
 Mit anderen Worten: Ein Rückgang sozialer Aktivitäten, die zu einem Rückgang der Fallzunahmen führten, ereigneten sich vor der Umsetzung von mrNPIs, weil die Bevölkerung in den betroffenen Ländern die Auswirkungen der Pandemie in China, Italien und New York verinnerlichte und eine wachsende Menge von Empfehlungen zur Einschränkung sozialer Kontakte zur Kenntnis nahm, was alles mrNPIs vorausging.
 Dies dürfte auch die starke Schwankung in der Effektstärke gleicher NPIs in verschiedenen Ländern erklären.
-Zum Beispiel war die Wirkung internationaler Reiseverbote in Deutschland positiv (nicht hilfreich) und negativ (vorteilhaft) in den Niederlanden (Abbildung 2).
+Zum Beispiel war die Wirkung internationaler Reiseverbote in Deutschland positiv (nicht hilfreich) und negativ (vorteilhaft) in den Niederlanden ([@fig:fig2]).
 
 <!--
 While this study casts doubt on any firm conclusions about the effectiveness of restrictive NPIs, it also underscores the importance of more definitive evaluations of NPI effects.
