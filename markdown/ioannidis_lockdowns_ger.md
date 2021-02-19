@@ -42,9 +42,9 @@ abstract: |
 	We evaluate the effects on epidemic case growth of more restrictive NPIs (mrNPIs), above and beyond those of less-restrictive NPIs (lrNPIs).
 	-->
 
-	__Hintergrund und Ziele:__ Die restriktivsten nicht-pharmazeutischer Maßnahmen (NPIs) gegen die Ausbreitung von COVID-19 sind ein verbindliches "Stay-at-Home" und Geschäftsschließungen.
+	__Hintergrund und Ziele:__ Die restriktivsten nicht-pharmazeutischer Maßnahmen (_engl: non-pharmaceutical interventions_: __NPIs__) gegen die Ausbreitung von COVID-19 sind ein verbindliches "Stay-at-Home" und Geschäftsschließungen.
 	Mit Hinsicht auf die Folgen solcher Regelungen ist es wichtig, ihre Auswirkungen einzuschätzen.
-	Wir erstellen eine Auswertung über den Einfluss restriktiverer NPIs (mrNPIs) auf den Zuwachs von Fallzahlen im Vergleich zu dem weniger restriktiver NPIs (lrNPIs).
+	Wir erstellen eine Auswertung über den Einfluss restriktiverer NPIs (_engl: more restrictive interventions_: __mrNPIs__) auf den Zuwachs von Fallzahlen im Vergleich zu dem weniger restriktiver NPIs (_engl: less restrictive interventions_: __lrNPIs__).
 
 	<!--
 	Methods: We first estimate COVID-­19 case growth in relation to any NPI implementation in subnational regions of 10 countries: England, France, Germany, Iran, Italy, Netherlands, Spain, South Korea, Sweden and the United States.
@@ -139,10 +139,10 @@ The early adoption of these more restrictive nonpharmaceutical interventions (mr
 -->
 
 \hypertarget{einfuhrung-p1}{}
-Die Ausbreitung von COVID-19 hat zu einer Vielzahl Regelungen geführt, die eine Abnahme der Übertragung von SARS-CoV-2 zum Ziel haben.
-Das erste Ziel solcher sogenannter nicht-pharmazeutischer Maßnahmen (NPI) ist die Verringerung der Übertragung in Ermangelung pharmazeutischer Möglichkeiten, um als Folge Tod, Krankheit und eine Überlastung des Gesundheitssystems zu begrenzen.
+Die Ausbreitung von COVID-19 hat zu einer Vielzahl Regelungen geführt, die einen Rückgang der Übertragungen von SARS-CoV-2 zum Ziel haben.
+Das erste Ziel solcher sogenannter nicht-pharmazeutischer Maßnahmen (_engl: nonpharmaceutical interventions_: __NPIs__) ist die Verringerung der Übertragungen in Ermangelung pharmazeutischer Möglichkeiten, um als Folge Tod, Krankheit und eine Überlastung des Gesundheitssystems zu verhindern.
 Manche der restriktivsten NPI-Regelungen beinhalten ein verbindliches "Stay-at-Home" und Vorschriften zur Schließung von Geschäften.
-Die frühe Einführung solcher restriktiverer nicht-pharmazeutischer Maßnahmen war gerechtfertigt, aufgrund der raschen Ausbreitung der Krankheit, überlasteten Gesundheitssystemen in einigen schwer getroffenen Regionen und einer beträchtlichen Verunsicherung über die Morbidität und Mortalität des Virus [ ^1^][Quellen].
+Die frühe Einführung solcher restriktiverer nicht-pharmazeutischer Maßnahmen (_engl: more restrictive NPIs_: __mrNPIs__) war gerechtfertigt, aufgrund der raschen Ausbreitung der Krankheit, überlasteten Gesundheitssystemen in einigen schwer getroffenen Regionen und einer beträchtlichen Verunsicherung über die Morbidität und Mortalität des Virus [ ^1^][Quellen].
 
 <!--
 Because of the potential harmful health effects of mrNPI ­ including hunger, opioid-related overdoses, missed vaccinations, increase in non­COVID diseases from missed health services, domestic abuse, mental health and suicidality, and a host of economic consequences with health implications - it is increasingly recognized that their postulated benefits deserve careful study.
@@ -155,9 +155,9 @@ That analysis attributes nearly all the reduction in transmission to the last in
 \hypertarget{einfuhrung-p2}{}
 Wegen möglicher schädlicher gesundheitlicher Auswirkungen von mrNPIs - darunter Hunger[ ^2^][Quellen], Opioidüberdosis[ ^3^][Quellen], verpassten Impfungen[ ^4,5^][Quellen], einer Zunahme von anderen Erkrankungen als COVID wegen verpasster Behandlungen[ ^6-9^][Quellen], häuslichem Missbrauch[ ^10^][Quellen], psychischen Problemen und Suizidalität[ ^11,12^][Quellen], sowie als Auslöser von ökonomischen Effekten mit gesundheitlichen Folgen[ ^13,14^][Quellen] - wird zunehmend anerkannt, dass deren behaupteter Nutzen eine aufmerksame Untersuchung verdient.
 Ein Ansatz zur Beurteilung des Nutzens von NPIs beruht auf der Modellierung von Krankheiten.
-Eine bekannte Modellanalyse schätzt, dass in ganz Europa mrNPIs für 81% des Rückgangs der effektiven Reproduktionszahl ($R_t$), eines Maßes für die Krankheitsübertragung, verantwortlich sind[ ^15^][Quellen].
+Eine bekannte Modellanalyse schätzt, dass in ganz Europa mrNPIs für 81% des Rückgangs der effektiven Reproduktionszahl ($R_t$), einem Maß für die Krankheitsübertragung, verantwortlich sind[ ^15^][Quellen].
 Allerdings wird, in Ermangelung einer empirischen Einschätzung der Regelungen, ihr Einfluss auf den Rückgang von Ansteckungen eher unterstellt als geprüft[ ^16,17^][Quellen].
-Diese Analyse schreibt nahezu jeglichen Rückgang von Übertragungen der letzten Maßnahme zu, ganz gleich welche Maßnahme letzte war, vollständige Lockdowns in Frankreich oder das Verbot öffentlicher Veranstaltungen in Schweden[ ^16^][Quellen].
+Eine solche Betrachtung schreibt nahezu jeglichen Rückgang von Übertragungen der letzten Maßnahme zu, ganz gleich welche Maßnahme die letzte war, vollständige Lockdowns in Frankreich oder das Verbot öffentlicher Veranstaltungen in Schweden[ ^16^][Quellen].
 
 <!--
 Another, more empirically grounded approach to assessing NPI effects uses statistical regression models and exploits variation in the location and timing of NPI implementations to identify changes in epidemic spread following various policies.
@@ -168,11 +168,11 @@ These epidemic dynamics are demonstrated by an analysis showing that slowing of 
 -->
 
 \hypertarget{einfuhrung-p3}{}
-Ein anderer, empirisch besser fundierter Ansatz zur Beurteilung der Auswirkungen von NPIs basiert auf statistische Regressionsmodellen und nutzt die Änderungen im Ort und dem Zeitplan der Umsetzung von NPIs um Änderungen in der epidemischen Ausbreitung zu identifizieren, die auf verschiedene Maßnahmen folgen[ ^18^][Quellen].
+Ein anderer, empirisch besser fundierter Ansatz zur Beurteilung der Auswirkungen von NPIs basiert auf statistischen Regressionsmodellen und nutzt die Änderungen im Ort und dem Zeitplan der Umsetzung von NPIs, um Änderungen in der epidemischen Ausbreitung zu identifizieren, die auf verschiedene Maßnahmen folgen[ ^18^][Quellen].
 Diese empirischen Studien zeigen einen starken Rückgang in der Zuwachsrate neuer Fälle, der NPIs zugeschrieben werden kann.
-Eine große Schwierigkeit mit solchen Analysen ist, dass sie die Zuwachsraten vor der Maßnahme heranziehen, um einen kontrafaktischen Verlauf zu bestimment - die erwartete Fallzunahme in Abwesenheit von NPIs.
+Eine große Schwierigkeit mit solchen Analysen ist, dass sie die Zuwachsraten vor der Maßnahme heranziehen, um einen kontrafaktischen Verlauf zu ermitteln - die erwartete Fallzunahme in Abwesenheit von NPIs.
 Das ist problematisch, weil es weithin anerkannt ist, dass die epidemische Dynamik von der Zeit abhängt und ein Abbremsen der Krankheitsübertragung sowohl ohne jegliche Eingriffe (durch einen Rückgang von Infektionen) vorkommen kann, als auch aufgrund von Verhaltensänderungen, die nichts mit NPIs zu tun haben[ ^19,20^][Quellen].
-Diese epidemische Dynamik demonstriert eine Analyse, die zeigt, dass die Verlangsamung des epidemischen Wachstums von COVID-19 in vielen Kontexten ähnlich war, in einer Weise, die eher mit der natürlichen Dynamik zusammenpasst als mit verordneten Regelungen[ ^21][Quellen].
+Diese epidemische Dynamik demonstriert eine Analyse, die zeigt, dass die Verlangsamung des epidemischen Wachstums von COVID-19 in vielen Kontexten ähnlich war, in einer Weise, die eher mit der natürlichen Dynamik zusammenpasst als mit verordneten Regelungen[ ^21^][Quellen].
 
 <!--
 These challenges suggest that assessing the impact of mrNPIs is important, yet difficult.
@@ -183,9 +183,9 @@ In this way, it may be possible to isolate the role of mrNPIs, net of lrNPIs and
 
 \hypertarget{p4}{}
 Diese Schwierigkeiten legen nahe, dass eine Einschätzung des Einflusses von NPIs wichtig ist, wenngleich schwierig.
-Wir schlagen einen Ansatz vor, der die Stärken empirischer Analysen austariert und die zugrundeliegende epidemische Dynamik berücksichtigt.
-Wir vergleichen die epidemische Ausbreitung in Regionen, die mrNPIs durchgeführt haben mit Gegenbeispielen, die nur weniger restriktive NPIs (lrNPIs) durchgeführt haben.
-Auf diese Weise könnte es möglich sein, die Rolle von mrNPIs herauszuarbeiten, von lrNPIs und der epidemischen Dynamik bereinigt.
+Wir schlagen einen Ansatz vor, der die Stärken empirischer Analysen ausbalanciert und gleichzeitig die zugrundeliegende epidemische Dynamik berücksichtigt.
+Wir vergleichen die epidemische Ausbreitung in Regionen, die mrNPIs durchgeführt haben mit Gegenbeispielen, die nur weniger restriktive NPIs (_engl: less restrictive NPIs_: __lrNPIs__) durchgeführt haben.
+Auf diese Weise könnte es möglich sein, die Rolle von mrNPIs herauszuarbeiten, bereinigt von lrNPIs und der epidemischen Dynamik.
 
 <!--
 Here, we use Sweden and South Korea as the counterfactuals to isolate the effects of mrNPIs in countries that implemented mrNPIs and lrNPIs.
@@ -195,10 +195,10 @@ Its strategy relied on intensive investments in testing, contact tracing and iso
 -->
 
 \hypertarget{p5}{}
-Wir haben hier Schweden und Südkorea als Gegenbeispiele benutzt, um die Auswirkungen von mrNPIs in Ländern, die sowohl mrNPIs als auch lrNPIs verhängt haben, herauszuarbeiten.
-Anders als die meisten seiner Nachbarn, die ein verbindliches "Stay-at-Home" und Geschäftsschließungen umgesetzt haben, beruhte Schwedens Ansatz in den fühen Stadien der Pandemie vollständig auf lrNPIs, inklusive Richtlinien zu Social Distancing, Empfehlungen gegen internationale- sowie Inlandsreisen und dem Verbot größerer Versammlungen[ ^22,23^][Quellen]
-Südkorea hat auch keine mrNPIs verhängt.
-Seine Strategie beruhte auf intensiven Investitionen in Testen, Kontaktverfolgung und der Isolierung von Infizierten und engen Kontakten[ ^24,25^][Quellen].
+Wir haben hier Schweden und Südkorea als Gegenbeispiele benutzt, um die Auswirkungen von mrNPIs in Ländern, die sowohl mrNPIs als auch lrNPIs verhängt haben, zu isolieren.
+Anders als die meisten seiner Nachbarn, die ein verbindliches "Stay-at-Home" und Geschäftsschließungen umgesetzt haben, beruhte Schwedens Ansatz in den fühen Stadien der Pandemie vollständig auf lrNPIs, inklusive Richtlinien zu Social Distancing, Empfehlungen gegen internationale- sowie Inlandsreisen und dem Verbot größerer Versammlungen[ ^22,23^][Quellen].
+Auch Südkorea hat keine mrNPIs verhängt.
+Seine Strategie beruhte auf intensiven Investitionen in Tests, Kontaktverfolgung und der Isolierung von Infizierten und engen Kontakten[ ^24,25^][Quellen].
 
 # Methoden
 
@@ -209,7 +209,7 @@ In effect, we follow the general scheme:
 
 \hypertarget{methoden-p1}{}
 Wir isolieren den Einfluss restriktiverer NPIs (mrNPIs), indem wir die gemeinsame Effektstärke aller NPIs in 8 Ländern, die restriktivere Regelungen getroffen haben (England, Frankreich, Deutschland, Iran, Italien, Niederlande, Spanien und USA), mit der Effektstärke aller NPIs in 2 Ländern vergleichen, die nur weniger restriktive NPIs (lrNPIs) verhängt haben.
-Praktisch gehen wir nach dem üblichen Schema:
+Praktisch folgen wir dem allgemeinen Schema:
 
 \begin{align*}
 \text{Wirkung}& \text{ von mrNPI} = \\
@@ -249,8 +249,8 @@ We include indicators for changes in case definitions or testing technologies to
 Wir schätzen die besondere Wirkung von mrNPIs auf die Zuwachsrate während des Frühlings 2020 auf der Nordhalbkugel in England, Frankreich, Deutschland, Iran, Italien, den Niederlanden, Spanien und USA, indem wir die Wirkung von NPIs in diesen Ländern mit jener in Schweden und Südkorea vergleichen (einzeln).
 Die genutzten Daten beruhen auf einer Analyse der Wirkung von NPIs und bestehen aus der Zahl täglicher Fälle in subnationalen Verwaltungsbezirken in jedem Land (zum Beispiel Regionen in Frankreich, Provinzen im Iran, Bundesstaaten in den USA, und Provinzen in Schweden), zusammen mit der Art und dem zeitlichen Ablauf von Regelungen in jedem Verwaltungsbezirk[ ^18,26^][Quellen].
 Wir greifen auf Daten aus einer Datenbank über COVID-19-Regelungen und vorige Analysen über die Auswirkungen politischer Maßnahmen zurück, um den Zeitplan und den Ort jeder NPI zu ermitteln[ ^18,27^][Quellen].
-Jede Beobachtung in den Daten ist durch den subnationalen Verwaltungsbezirks und das Datum gekennzeichnet, mit Informationen über die Fallzahlen an diesem Datum und Kennzahlen über Anwesenheit jeder Regelung.
-Wir beziehen Kennzahlen für veränderte Definition der Fallzahlen oder Testverfahren ein, um abrupte Änderungen der Fallzahlen zu erfassen, die nicht ein Ergebnis der zugrunde liegenden Epidemie sind (es handelt sich hauptsächlich um Ein-Tages-Kennzahlen), wie in einer früheren Analyse vorgeschlagen[ ^18^][Quellen].
+Jede Beobachtung in den Daten ist durch den subnationalen Verwaltungsbezirk und das Datum gekennzeichnet, mit Informationen über die Fallzahlen an diesem Datum und Kennzahlen über das Vorhandensein jeder Regelung.
+Wir beziehen Kennzahlen für geänderte Definitionen der Fälle oder Testverfahren ein, um abrupte Änderungen der Fallzahlen zu erfassen, die nicht ein Ergebnis der zugrunde liegenden Epidemie sind (es handelt sich hauptsächlich um Ein-Tages-Kennzahlen), wie in einer früheren Analyse vorgeschlagen[ ^18^][Quellen].
 
 <!--
 We define the dependent variable as the daily difference in the natural log of the number of confirmed cases, which approximates the daily growth rate of infections ( g ). We then estimate the following linear models:
@@ -271,9 +271,9 @@ The parameter μ cit is a single-­day indicator that models changes in case def
 
 \hypertarget{methoden-p8}{}
 Die Terme in diesem Modell haben die Indizes Land ($c$), subnationale Einheit($i$), Tag($t$), und NPI-Kennzahl ($p$).
-$\phi_{0,ci}$ sind eine Folge von festen Effekten für jede subnationale Einheit, und $\rho_{ct}$ sind länderspezifische Effekte an einem festen Wochentag.
+$\phi_{0,ci}$ sind eine Folge von festen Effekten für jede subnationale Einheit und $\rho_{ct}$ sind länderspezifische Effekte an einem festen Wochentag.
 Von besonderem Interesse sind die Parameter $\gamma_{pc}$, welche den Effekt jeder Regelung auf die Zuwachsrate der Fälle bezeichnen.
-Der Parameter $\mu_{cit}$ ist eine Ein-Tages-Kennzahl, der Änderungen in der Definition von Fällen darstellt, die zu kurzen Diskontinuitäten der Fallzahlen führen, die nicht auf die zugrundeliegende epidemische Schwankungen zurückgehen.
+Der Parameter $\mu_{cit}$ ist eine Ein-Tages-Kennzahl, die Änderungen in der Definition von Fällen beschreibt, die zu kurzen Diskontinuitäten der Fallzahlen führen, die nicht auf zugrundeliegende epidemische Schwankungen zurückgehen.
 
 <!--
 We estimate these models separately for each pair of countries (one with mrNPIs, one without), for a total of 16 models.
@@ -284,7 +284,7 @@ We estimate robust standard errors throughout, with clustering at the day-of-wee
 
 \hypertarget{methoden-p9}{}
 Wir berechnen diese Modelle separat für jedes Paar von Ländern (eines mit mrNPIs, eines ohne) für insgesamt 16 Modelle.
-Dann addieren wir die Koeffizienten für alle Regelungen des Landes ohne mrNPIs (das ergibt den Effekt aller NPIs in dem mrNPI-Land) und subtrahieren die gemeinsamen Effekte aller NPIs in dem Vergleichsland ohne mrNPIs.
+Dann addieren wir die Koeffizienten für alle Regelungen des Landes mit mrNPIs (das ergibt den Effekt aller NPIs in dem mrNPI-Land) und subtrahieren die gemeinsamen Effekte aller NPIs in dem Vergleichsland ohne mrNPIs.
 Wie oben erwähnt isoliert diese Differenz die Wirkung von mrNPIs auf die Zuwachsrate der Fälle.
 Wir nehmen durchwegs robuste Standardfehler an, mit einer Clusterung anhand des Wochentags, um Autokorrelationen Rechnung zu tragen.
 
@@ -312,8 +312,8 @@ The variation of pre-­policy growth rates in cases may reflect epidemic intensi
 \hypertarget{ergebnisse-p1}{}
 Die Zuwachsrate neuer Fälle war vor der Umsetzung jeglicher NPIs in allen betrachteten Ländern positiv ([@fig:fig1]).
 Die Abbildung zeigt, dass die durchschnittliche Zuwachsrate, über alle subnationalen Einheiten aller zehn Länder hinweg, zwischen 0,23 in Spanien (23% tägliche Zunahme, 95% CI 0,13 bis 0,34) und 0,47 (95% CI 0,39 bis 0,55) in den Niederlanden lag.
-Der Durchschnitt über alle 10 Länder war 0,32 und in Südkorea und Schweden, den Ländern ohne mrNPIs, war die Zuwachsrate vor den NPIs 0,25, bzw. 0.33.
-Die Änderung der Zuwachsrate der Fälle vor den Maßnahmen dürfte die Intensität der Epidemie wiederspiegeln, die Testabdeckung (höhere Zuwachs könnte auf eine Ausweitung der Testkapazität zurückgehen und auf darauf, dass mehr Menschen getestet werden möchten) und Verhaltensänderungen vor den Regelungen, die zu einer Zunahme oder Abnahme von Übertragungen geführt haben.
+Der Durchschnitt über alle 10 Länder war 0,32 und in Südkorea und Schweden, den Ländern ohne mrNPIs, war die Zuwachsrate vor den NPIs 0,25, bzw. 0,33.
+Die Änderung der Zuwachsrate der Fälle vor den Maßnahmen dürfte die Intensität der Epidemie wiederspiegeln, die Testabdeckung (ein höherer Zuwachs könnte auf eine Ausweitung der Testkapazität zurückgehen und darauf, dass mehr Menschen getestet werden möchten) sowie Verhaltensänderungen vor den Regelungen, die zu einer Zunahme oder Abnahme von Übertragungen geführt haben.
 
 <!--
 Growth rate in cases for study countries. The black bars demonstrate the average growth rate in cases in each subnational unit (95% CI) prior to any policies implemented. The figures to the right show the daily growth rate in cases for each of the countries and demonstrate the shared decline in case growth across all countries, including the countries that did not implement mrNPIs (South Korea and Sweden)
@@ -356,8 +356,8 @@ The 95% confidence intervals excluded a 30% reduction in daily growth in all 16 
 
 \hypertarget{ergebnisse-p3}{}
 [@fig:fig4] zeigt die Wirkung von mrNPIs in den 8 Ländern, in denen mrNPIs umgesetzt wurden, nach dem Herausrechnen der Effekte von lrNPIs und der zugrundeliegenden epidemischen Dynamik.
-In keinem der 8 Länder und in keinem der 16 Vergleiche (mit Schweden und Südkorea) waren der Einfluss von mrNPIs signifikant negativ (vorteilhaft).
-Der Punktschätzer war positiv (zeigten in Richtung einer Steigerung der täglichen Zuwachses aufgrund von mrNPIs) in 12 von 16 Vergleichen (signifikant positiv in 3 von 12, beim Vergleich Spanien und in England mit Schweden).
+In keinem der 8 Länder und in keinem der 16 Vergleiche (mit Schweden und Südkorea) war der Einfluss von mrNPIs signifikant negativ (vorteilhaft).
+Der Punktschätzer war positiv (zeigte in Richtung einer Steigerung des täglichen Zuwachses aufgrund von mrNPIs) in 12 von 16 Vergleichen (signifikant positiv in 3 von 12, in Spanien und beim Vergleich von England mit Schweden).
 Das einzige Land, in dem der Punktschätzer für den Einfluss von mrNPIs in beiden Vergleichen negativ war, ist der Iran (-0,07 [95% CI: -0,21 bis -0,07] beim Vergleich mit Schweden; -0,02 [95% CI: -0,28 bis -0,25] beim Vergleich mit Südkorea).
 Das Konfidenzintervall von 95% schließt einen 30%-igen Rückgang des täglichen Zuwachses für alle 16 Vergleiche aus.
 
@@ -376,7 +376,7 @@ While modest decreases in daily growth (under 30%) cannot be excluded in a few c
 -->
 
 \hypertarget{diskussion-p1}{}
-In der Modellierung<!-- In the framework of this analysis ??? --> dieser Analyse ergibt sich kein Anhaltspunkt, dass restriktivere nicht-pharmazeutische Maßnahmen ("Lockdowns") wesentlich dazu beigetragen hätten, die Kurve neuer Fälle in England, Frankreich, Deutschland, Iran, Italien, den Niederlanden oder den USA Anfang 2020 zu biegen.
+In der Darstellung<!-- In the framework of this analysis ??? --> dieser Analyse ergibt sich kein Anhaltspunkt, dass restriktivere nicht-pharmazeutische Maßnahmen ("Lockdowns") wesentlich dazu beigetragen hätten, die Kurve neuer Fälle in England, Frankreich, Deutschland, Iran, Italien, den Niederlanden oder den USA Anfang 2020 zu ändern.
 Beim Vergleich des Einflusses von NPIs auf die Zuwachsrate von Fällen in Ländern mit restriktiveren Maßnahmen mit denen, die weniger restriktive Maßnahmen umgesetzt haben, sprechen die Anzeichen gegen die Annahme, dass mrNPIs einen zusätzlichen bedeutsamen Nutzen gegenüber lrNPIs hätten.
 Auch wenn ein mäßiger Rückgang der täglichen Zunahme (unter 30%) in ein paar Ländern nicht auszuschließen ist, ist die Möglichkeit eines starken Rückgangs der täglichen Zuwachsrate aufgrund von mrNPIs mit den gesammelten Daten unvereinbar.
 
@@ -388,7 +388,7 @@ In other words, it is possible that stay-at-­home orders may facilitate transmi
 -->
 
 \hypertarget{diskussion-p2}{}
-Die Richtung der Effektstärke deutet in Richtung einer Steigerung der Zuwachsrate von Fällen, wenngleich diese Schätzungen nur im Fall von Spanien von 0 unterscheidbar sind (das deckt sich mit der nachteiligen Wirkung von Lockdwons).
+Die Richtung der Effektstärke deutet auf eine Steigerung der Zuwachsrate von Fällen hin, wenngleich diese Schätzungen nur im Fall von Spanien von 0 unterscheidbar sind (das passt zu einer nachteiligen Wirkung von Lockdwons).
 Nur im Iran deuten die Schätzungen einheitlich in Richtung einer zusätzlichen Verringerung der Zuwachsrate, obschon auch hier die Effekte statistisch von 0 nicht unterscheidbar sind.
 Wenngleich es schwierig ist, aus diesen Schätzungen sichere Schlüsse zu ziehen, stimmen sie doch mit einer neueren Analyse überein, welche eine Steigerung von Übertragungen und Fallzahlen in Hunan, China in der Zeit der "Stay-at-Home"-Vorschriften feststellt und auf eine Zunahme von häuslicher Nähe und Übertragungen im Haushalt zurückführt[ ^29^][Quellen].
 Mit anderen Worten: Es ist möglich, dass "Stay-at-Home"-Vorschriften die Übertragungen fördern, falls dadurch der Kontakt zwischen Personen dort zunimmt, wo eine effiziente Übertragung stattfindet, zum Beispiel in Innenräumen.
@@ -402,7 +402,7 @@ The degree to which risk communications motivate personal behaviours has been us
 \hypertarget{diskussion-p3}{}
 Unsere Studie stützt sich auf Ergebnisse, die eine allgemeine Wirksamkeit von NPIs auf die Verringerung der Zuwachsrate von Fällen nahelegen.
 Dieser liegt ein plausibler Verhaltensmechanisums zugrunde:
-NPIs sind von der Vorstellung motiviert, dass sie ansteckungsmindernde Verhaltensänderungen herbeiführen, entweder direkt, durch persönliches Einverständnis, oder durch ihre Signalwirkung über die Gefahr einer Erkrankung, wie sie von Verordnungsgebern kommuniziert wird, und die sich auf Entscheidungen im individuellen Verhalten auswirkt.
+NPIs sind von der Vorstellung motiviert, dass sie ansteckungsmindernde Verhaltensänderungen herbeiführen, entweder direkt, durch persönliches Einverständnis oder durch ihre Signalwirkung über die Gefahr einer Erkrankung, wie sie von Verordnungsgebern kommuniziert wird, und die sich auf Entscheidungen im individuellen Verhalten auswirkt.
 Der Grad, in dem sich die Vermittlung von Risiken auf das persönliche Verhalten auswirkt, wurde herangezogen, um die Reaktion auf NPIs in Südkorea zu erklären, wo deutliche Änderungen des persönlichen Verhaltens bei weniger restriktiven NPIs beobachtet wurden[ ^30^][Quellen].
 
 <!--
@@ -417,10 +417,10 @@ For example, the effects of international travel bans were positive (unhelpful) 
 
 \hypertarget{diskussion-p4}{}
 Diese Analyse verbindet Beobachtungen über die mögliche Wirksamkeit von NPIs und epidemische Änderungen in der Zunahme von COVID-19-Fällen, die eine überraschende Ähnlichkeit zeigen, trotz einer breiten Vielfalt nationaler Regelungen[ ^31-33^][Quellen].
-Unser Verhaltensmodell für NPIs - dass deren Wirksamkeit von individuellen Verhaltensänderungen abhängt, für die die Regelungen einen verrauschten Anreiz bilden - hilft bei der Erklärung, warum das Ausmaß von Beschränkungen den Rückgang der Zuwachsrate von Fällen nicht zu erklären scheint.
+Unser Verhaltensmodell für NPIs - dass deren Wirksamkeit von individuellen Verhaltensänderungen abhängt, für die die Regelungen einen schwankenden Anreiz bilden - hilft bei der Erklärung, warum das Ausmaß von Beschränkungen den Rückgang der Zuwachsrate von Fällen nicht zu erklären scheint.
 Daten über das individuelle Verhalten, wie den Besuch von Geschäften, Spaziergänge oder Fahrten, zeigen in den betrachteten Ländern einen dramatischen Rückgang, Tage und Wochen vor der Umsetzung von Geschäftsschließungen und verbindlichen "Stay-at-Home"-Vorschriften, was mit den oben angedeuteten Verhaltensmechanismen übereinstimmt[ ^34-36^][Quellen].
 Diese Beobachtungen stimmen mit einem Modell überein, nach dem die von Individuen wahrgenommene Schwere des Risikos ein stärkerer Antrieb für ansteckungsminderndes Verhalten war, als der spezifische Inhalt von NPIs.
-Mit anderen Worten: Ein Rückgang sozialer Aktivitäten, die zu einem Rückgang der Fallzunahmen führten, ereigneten sich vor der Umsetzung von mrNPIs, weil die Bevölkerung in den betroffenen Ländern die Auswirkungen der Pandemie in China, Italien und New York verinnerlichte und eine wachsende Menge von Empfehlungen zur Einschränkung sozialer Kontakte zur Kenntnis nahm, was alles mrNPIs vorausging.
+Mit anderen Worten: Ein Rückgang sozialer Aktivitäten, die zu einem Rückgang der Fallzunahmen führten, ereignete sich vor der Umsetzung von mrNPIs, weil die Bevölkerung in den betroffenen Ländern die Auswirkungen der Pandemie in China, Italien und New York verinnerlichte und eine wachsende Menge von Empfehlungen zur Einschränkung sozialer Kontakte zur Kenntnis nahm, wobei all dies vor mrNPIs passierte.
 Dies dürfte auch die starke Schwankung in der Effektstärke gleicher NPIs in verschiedenen Ländern erklären.
 Zum Beispiel war die Wirkung internationaler Reiseverbote in Deutschland positiv (nicht hilfreich) und negativ (vorteilhaft) in den Niederlanden ([@fig:fig2]).
 
@@ -433,10 +433,10 @@ Of note, Sweden did not close primary schools throughout 2020 as of this writing
 -->
 
 \hypertarget{diskussion-p5}{}
-Wenn diese Studie auch Zweifel gegen jeglicher sicheren Schlüsse über die Wirksamkeit von restriktiven NPIs aufwirft, unterstreicht sie doch die Wichtigkeit eindeutigerer Auswertungen von NPIs.
+Wenn diese Studie auch Zweifel gegen jegliche sicheren Schlüsse über die Wirksamkeit von restriktiven NPIs aufwirft, unterstreicht sie doch die Wichtigkeit eindeutigerer Auswertungen von NPIs.
 NPIs können, neben einem fragwürdigen Nutzen, auch Schäden anrichten und die Schäden dürften bei manchen NPIs bedeutsamer sein als bei anderen.
-Zum Beispiel erzeugen Schulschließungen sehr ernste Schäden, von denen man schätzt, dass sie 5.5 Millionen Lebensjahren für Kinder während der Schulschließungen im Frühjahr in den USA entsprechen[ ^37^][Quellen].
-Eine Abwägung von Schäden sollten eine herausragende Rolle bei Entscheidungen über politischen Regelungen spielen, besonders wenn eine NPI für die Eindämmung der Ausbreitung unwirksam ist.
+Zum Beispiel erzeugen Schulschließungen sehr ernste Schäden, von denen man schätzt, dass sie allein für Kinder während der Schulschließungen im Frühjahr in den USA 5,5 Millionen Lebensjahren entsprechen[ ^37^][Quellen].
+Die Abwägung von Schäden sollte eine herausragende Rolle bei den Entscheidungen über politischen Regelungen spielen, besonders wenn eine NPI für die Eindämmung der Ausbreitung unwirksam ist.
 Bemerkenswert ist hier, dass Schweden Grundschulen das ganze Jahr 2020 hindurch nicht geschlossen hat, Stand zum Zeitpunkt der Niederschrift dieses Artikels.
 
 <!--
@@ -454,7 +454,7 @@ This limitation also holds for all other empirical assessments of NPI effects.
 -->
 
 \hypertarget{diskussion-p6}{}
-Wenn wir auch keine Belege für eine deutlich ansteckungsmindernde Wirkung von "Stay-at-Home"-Regelungen und Geschäftsschließungen finden, sollten wir anerkennen, dass die zugrunde gelegten Daten und Methoden erhebliche Grenzen haben.
+Wenn wir auch keine Belege für eine deutlich ansteckungsmindernde Wirkung von "Stay-at-Home"-Regelungen und Geschäftsschließungen finden, sollten wir doch anerkennen, dass die zugrunde gelegten Daten und Methoden erhebliche Grenzen haben.
 Erstens sind Vergleiche zwischen Ländern schwierig: Länder haben verschiedene Regeln, Kulturen und eine unterschiedliche Beziehung zwischen Regierung und Bürgern.
 Aus diesem Grund haben wir Informationen für alle Länder gesammelt, für die subnationale Daten über die Fallzunahme verfügbar waren.
 Sicher, diese Unterschiede könnten auch zwischen subnationalen Einheiten existieren, wie im Fall der USA gezeigt wurde.
@@ -463,7 +463,7 @@ Zweitens sind bestätigte Fälle ein unsicheres Maß für die Übertragung von K
 Die Verfügbarkeit von Tests, persönliche Nachfrage nach- bzw. die Angst davor, getestet zu werden, Testrichtlinien, wechselnde Eigenschaften von Tests und die Evolution von Viren beeinflussen den Zusammenhang zwischen den zugrunde liegenden Infektionen und den Fallzahlen.
 Weil der Orts- und Zeitplan von Regelungen zur wahrgenommenen Stufe der Epidemie endogen ist, steht das Rauschen in den Fallzahlen im Zusammenhang mit den Regelungen, was eine Verzerrung möglich macht und schwer ausgemerzt werden kann.
 Der Ansatz mit festen Effekten liefert unverzerrte Schätzungen, so lange der Ort und die Zeitplanung der Regelungen quasi zufällig in Bezug auf das Ergebnis ist.
-Diese Annahme könnte sich für dieses Auswertung von NPI-Auswirkungen als unhaltbar erweisen, weil die zugrundeliegende epidemische Dynamik nicht-linear ist und die Regelungen auf die Stufe der Epidemie reagieren - und diese beeinflussen.
+Diese Annahme könnte sich für diese Auswertung von NPI-Auswirkungen als unhaltbar erweisen, weil die zugrundeliegende epidemische Dynamik nicht-linear ist und die Regelungen auf die Stufe der Epidemie reagieren - und diese beeinflussen.
 Diese Einschränkung gilt auch für alle anderen empirischen Auswertungen der Auswirkungen von NPIs[ ^18^][Quellen].
 
 <!--
@@ -476,7 +476,7 @@ In that sense, our comparison is positioned squarely within the literature on th
 \hypertarget{diskussion-p7}{}
 Drittens beruhen unsere Ergebnisse auf einem in der Literatur üblichen Konzept von NPIs als Maßnahmen der "reduzierten Form": Eine vorgelagerte<!-- an upstream policy ??? --> Regelung hat eine zu erwartende nachgelagerte<!-- has expected downstream effects ??? --> Auswirkung auf die Übertragung.
 Das erlaubt uns, Schweden und Südkorea als Vergleich zu nutzen, weil sie weniger restriktive Maßnahmen angewendet haben, was uns ermöglicht, die gemeinsame Wirkung von lrNPIs und der zugrundeliegenden epidemischen Dynamik herauszurechnen.
-Wenngleich kontextspezifische Faktoren, welche die Wirkung von NPIs beeinflussen, wichtig sind - Länder haben verschiedene Varianten der gleichen NPI umgesetzt und die Bevölkerung hat unterschiedlich reagiert - weisen viele Analysen, welche die Wirkung von NPIs untersuchen eine ähnliche Struktur der "reduzierten Form"[ ^18,31,38^][Quellen].
+Wenngleich kontextspezifische Faktoren, welche die Wirkung von NPIs beeinflussen, wichtig sind - Länder haben verschiedene Varianten der gleichen NPI umgesetzt und die Bevölkerung hat unterschiedlich reagiert - weisen viele Analysen, welche die Wirkung von NPIs untersuchen eine ähnliche Struktur der "reduzierten Form" auf[ ^18,31,38^][Quellen].
 In diesem Sinne passt unser Vergleich voll und ganz zur Literatur über die Auswirkung von NPIs.
 
 <!--
@@ -490,9 +490,9 @@ Some evidence also suggests 40 that sometimes under more restrictive measures, i
 
 \hypertarget{diskussion-p8}{}
 Im Herbst und Winter 2020 haben viele Länder auf der Nordhalbkugel, besonders in Europa und den USA, eine große Welle von COVID-19 Morbidität und Mortalität erlebt.
-Diesen Wellen wurden mit neuen (oder erneuerten) NPIs begegnet, einschließlich mrNPIs in manchen Ländern (z.B. England) und lrNPIs in anderen (z.B. Portugal), die in der ersten Welle mrNPIs genutzt hatten.
+Diesen Wellen wurde mit neuen (oder erneuerten) NPIs begegnet, einschließlich mrNPIs in manchen Ländern (z.B. England) und lrNPIs in anderen (z.B. Portugal), die in der ersten Welle mrNPIs genutzt hatten.
 Die Ausbreitung von Infektionen in Ländern, die im Frühling größtenteils verschont geblieben waren (z.B. Österreich und Griechenland) unterstreicht die Herausforderungen und begrenzten Möglichkeiten von NPIs zur Kontrolle der Ausbreitung dieses hochansteckenden Virus der Atemwege. 
-Emprirische Daten zur Charakteristik der Sterblichkeit in der späteren Welle, bevor mrNPIs umgesetzt wurden, im Vergleich mit der ersten Welle (als mrNPIs genutzt wurden) zeigen, dass der Anteil von COVID-19-Todesfällen, die in Pflegeheimen auftraten, unter mrNPIs oft höher war, als unter weniger restriktiven Maßnahmen[ ^39^][Quellen].
+Emprirische Daten zur Charakteristik der Sterblichkeit in der späteren Welle vor Umsetzung von mrNPIs, im Vergleich mit der ersten Welle (als mrNPIs genutzt wurden) zeigen, dass der Anteil von COVID-19-Todesfällen, die in Pflegeheimen auftraten, unter mrNPIs oft höher war, als unter weniger restriktiven Maßnahmen[ ^39^][Quellen].
 Dies legt nahe, dass restriktive Maßnahmen nicht eindeutig einen Schutz gefährdeter Bevölkerungsgruppen bewirken.
 Einige Anzeichen deuten darauf hin[ ^40^][Quellen], dass manchmal unter restriktiveren Maßnahmen Infektionen häufiger in Szenarien auftreten, wo die gefährdete Gruppe von der normalen Bevölkerung getrennt lebt.
 
@@ -504,7 +504,7 @@ However, even if they exist, these benefits may not match the numerous harms of 
 More targeted public health interventions that more effectively reduce transmissions may be important for future epidemic control without the harms of highly restrictive measures.
 -->
 
-Zusammenfassend können wir keine deutlichen Anzeichen finden, dass restriktivere NPIs eine Rolle dabei gespielt hätten, COVID Anfang 2020 zu kontrollieren.
+Zusammenfassend können wir keine deutlichen Anzeichen finden, dass restriktivere NPIs eine Rolle dabei gespielt hätten, COVID im Anfang 2020 unter Kontrolle zu bringen.
 Wir stellen nicht die Bedeutung jeglicher Maßnahmen für die öffentliche Gesundheit in Frage oder einer koordinierten Kommunikation der Epidemie, finden aber keine Belege für einen zusätzlichen Nutzen von "Stay-at-Home"-Vorschriften und Geschäftsschließungen.
 Die Daten können die Möglichkeit einiger Vorteile nicht ganz ausschließen.
 Allerdings wiegt der Nutzen, selbst wenn er existiert, nicht die zahlreichen Schäden dieser aggressiven Maßnahmen auf.
