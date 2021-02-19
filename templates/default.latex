@@ -420,7 +420,7 @@ $for(institute)$
 	\affil[$institute.number$]{$institute.name$}
 $endfor$
 
-\date{$date$\footnote{$date-note$}}
+\date{$date$$if(date-note)$\footnote{$date-note$}$endif$}
 
 $if(beamer)$
 $if(institute)$
