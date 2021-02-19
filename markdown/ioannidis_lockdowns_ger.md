@@ -12,7 +12,7 @@ author:
 institute:
 	- name: Department of Medicine, Stanford University, Stanford, CA, USA
 	  number: 1
-	- name: {Center for Health Policy and the Center for Primary Care and Outcomes Research, Stanford University, Stanford, CA, USA}
+	- name: "Center for Health Policy and the Center for Primary Care and Outcomes Research, Stanford University, Stanford, CA, USA"
 	  number: 2
 	- name: Department of Epidemiology and Population Health, Stanford University, Stanford, CA, USA
 	  number: 3
@@ -22,11 +22,10 @@ institute:
 	  number: 5
 	- name: Meta-­Research Innovation Center at Stanford (METRICS), Stanford University, Stanford, CA, USA
 	  number: 6
-subtitle: Übersetzung - Samuel Gfrörer (2021-02-09)
-date: 2021-01-05
+subtitle: "Übersetzung: Samuel Gfrörer"
+date-note: "Veröffentlichungsdatum des Originalartikels: 2021-01-05"
 numbersections: true
 papersize: a4
-hasfrontmatter: true
 documentclass: scrartcl
 lang: de
 copyright: |

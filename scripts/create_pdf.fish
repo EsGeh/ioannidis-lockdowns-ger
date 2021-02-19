@@ -10,7 +10,9 @@ mkdir --parents "$PDF_DIR"
 for path in (find $MARKDOWN_DIR -name '*.md')
 	set output_filename (string split --right --max 1 '.' $path)[1]
 	set output_path $BASE_DIR/pdf/(basename $output_filename).pdf
+	set date (date +'%Y-%m-%d')
 	set cmd pandoc \
+		--metadata date=$date \
 		--template $BASE_DIR/templates/default.latex \
 		--resource-path "$BASE_DIR/" \
 		--output $output_path $path
