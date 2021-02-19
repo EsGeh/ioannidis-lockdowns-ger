@@ -298,7 +298,7 @@ Material).
 \hypertarget{methoden-p10}{}
 Es ist wichtig zu erwähnen, dass es, weil die tatsächliche Anzahl an Infektionen in allen Ländern unsichtbar ist, unmöglich ist, den Einfluss nationaler Regelungen auf die Übertragung neuer Infektionen einzuschätzen[ ^28^][Quellen].
 Stattdessen folgen wir anderen Studien, welche die Wirkung von NPIs anhand von Fallzahlen beurteilen, und nehmen implizit an, dass die beobachtete Dynamik ein konsistentes Bild der zugrundeliegenden Dynamik von Infektionen darstellt[ ^18^][Quellen].
-Der Code für die Datenvorbereitung, Analyse und Visualisierung liegt dem Artikel bei.
+Der Code für die Datenvorbereitung, Analyse und Visualisierung liegt dem Artikel bei^[Die Daten und der Code sind auf der Webseite des Originalartikels abrufbar: <https://doi.org/10.1111/eci.13484>].
 
 # Ergebnisse
 
