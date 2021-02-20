@@ -1,6 +1,6 @@
 # German Translation of "Assessing mandatory stay‐at‐home and business closure effects on the spread of COVID‐19" (Bendavid, Oh, Bhattacharya, Ioannidis)
 
-This is a german translation of the famous "Lockdown Paper" by John P.A. Ioannidis et al.
+This is a german translation of the famous Stanford "Lockdown Paper" by Eran Bendavid, Christopher Oh, Jay Bhattacharya and John P. A. Ioannidis.
 The aim of this project is to make this paper available to german speaking public in order to kindle a broad discussion about the pointlessness and dangers of so called "lockdowns", as I consider the results of this paper to be of utter political relevance.
 
 Peace.
@@ -9,7 +9,7 @@ No Dictatorship.
 
 ---
 
-Dies ist die deutsche Übersetzung des berühmten "Lockdownpapiers" von John P.A.Ioannidis und anderen.
+Dies ist die deutsche Übersetzung des berühmten "Lockdownpapiers" der Stanford-Universität von Eran Bendavid, Christopher Oh, Jay Bhattacharya und John P. A. Ioannidis.
 Das Ziel dieses Projekts ist es, diesen Artikel der deutschsprachigen Öffentlichkeit zugänglich zu machen, um eine breite Diskussion über die Nutzlosigkeit und die Gefahren sogenannter "Lockdowns" anzuregen, da ich die Ergebnisse dieses Artikels politisch für äußerst relevant halte.
 
 Frieden.
