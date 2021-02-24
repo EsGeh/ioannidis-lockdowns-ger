@@ -52,7 +52,7 @@ abstract: |
 	We use case growth in Sweden and South Korea, 2 countries that did not implement mandatory stay-at-home and business closures, as comparison countries for the other 8 countries (16 total comparisons).
 	-->
 
-	__Methoden:__ Zunächst schätzen wir die Zunahme von COVID-19-Fällen im Zusammenhang mit der Umsetzung jeglicher NPIs in subnationalen Regionen von 10 Ländern: England, Frankreich, Iran, Italien, Niederlande, Spanien, Südkorea, Schweden und USA.
+	__Methoden:__ Zunächst schätzen wir die Zunahme von COVID-19-Fällen im Zusammenhang mit der Umsetzung jeglicher NPIs in subnationalen Regionen von 10 Ländern: England, Frankreich, Deutschland, Iran, Italien, Niederlande, Spanien, Südkorea, Schweden und USA.
 	Mittels First-Difference Modellen mit festen Effekten isolieren wir die Auswirkungen von mrNPIs, indem wir den gemeinsamen Einfluss von lrNPIs und der epidemischen Dynamik von allen NPIs abziehen.
 	Wir verwenden dazu die Fallzunahme in Schweden und Südkorea, zwei Länder, die kein verbindliches "Stay-at-Home" und Geschäftsschließungen umgesetzt haben, als Vergleichsländer zu den anderen 8 Ländern (insgesamt 16 Vergleiche).
 
