@@ -10,17 +10,17 @@ author:
 	- name: John P. A. Ioannidis
 	  institute: 1,3,4,5,6
 institute:
-	- name: Department of Medicine, Stanford University, Stanford, CA, USA
+	- name: "Abteilung für Medizin, Universität Stanford, Stanford, Kalifornien, USA"
 	  number: 1
-	- name: "Center for Health Policy and the Center for Primary Care and Outcomes Research, Stanford University, Stanford, CA, USA"
+	- name: "Zentrum für Gesundheitspolitik und Zentrum für medizinische Grundversorgung und Wirkungsforschung, Universität Stanford, Stanford, Kalifornien, USA"
 	  number: 2
-	- name: Department of Epidemiology and Population Health, Stanford University, Stanford, CA, USA
+	- name: "Abteilung für Epidemiologie und Bevölkerungsgesundheit, Universität Stanford, Stanford, Kalifornien, USA"
 	  number: 3
-	- name: Department of Biomedical Data Science, Stanford University, Stanford, CA, USA
+	- name: "Abteilung für biomedizinische Data Science, Universität Stanford, Stanford, Kalifornien, USA"
 	  number: 4
-	- name: Department of Statistics, Stanford University, Stanford, CA, USA
+	- name: "Abteilung für Statistik, Universität Stanford, Stanford, Kalifornien, USA"
 	  number: 5
-	- name: Meta-­Research Innovation Center at Stanford (METRICS), Stanford University, Stanford, CA, USA
+	- name: "Innovationszentrum für Meta-Forschung in Stanford (METRICS), Universität Stanford, Stanford, Kalifornien, USA"
 	  number: 6
 subtitle: "Übersetzung: Samuel Gfrörer"
 date: "Originalartikel veröffentlicht am 2021-01-05"
@@ -52,7 +52,7 @@ abstract: |
 	We use case growth in Sweden and South Korea, 2 countries that did not implement mandatory stay-at-home and business closures, as comparison countries for the other 8 countries (16 total comparisons).
 	-->
 
-	__Methoden:__ Zunächst schätzen wir die Zunahme von COVID-19-Fällen im Zusammenhang mit der Umsetzung jeglicher NPIs in subnationalen Regionen von 10 Ländern: England, Frankreich, Iran, Italien, Niederlande, Spanien, Südkorea, Schweden und USA.
+	__Methoden:__ Zunächst schätzen wir die Zunahme von COVID-19-Fällen im Zusammenhang mit der Umsetzung jeglicher NPIs in subnationalen Regionen von 10 Ländern: England, Frankreich, Deutschland, Iran, Italien, Niederlande, Spanien, Südkorea, Schweden und USA.
 	Mittels First-Difference Modellen mit festen Effekten isolieren wir die Auswirkungen von mrNPIs, indem wir den gemeinsamen Einfluss von lrNPIs und der epidemischen Dynamik von allen NPIs abziehen.
 	Wir verwenden dazu die Fallzunahme in Schweden und Südkorea, zwei Länder, die kein verbindliches "Stay-at-Home" und Geschäftsschließungen umgesetzt haben, als Vergleichsländer zu den anderen 8 Ländern (insgesamt 16 Vergleiche).
 
