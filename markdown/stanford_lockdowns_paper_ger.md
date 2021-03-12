@@ -28,6 +28,7 @@ numbersections: true
 papersize: a4
 documentclass: scrartcl
 lang: de
+titlegraphic: 'img/DemokratischerWiderstand-Logo.pdf'
 figureTitle: "Abbildung"
 figPrefix: ["Abbildung", "Abbildungen"]
 copyright: |

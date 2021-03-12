@@ -451,6 +451,7 @@ $endif$
 
 \begin{document}
 \copyrightstatement
+
 $if(has-frontmatter)$
 \frontmatter
 $endif$
@@ -459,6 +460,13 @@ $if(beamer)$
 \frame{\titlepage}
 $else$
 \maketitle
+\hfill
+$if(titlegraphic)$
+\begin{center}
+	\includegraphics[width=0.3\textwidth]{$titlegraphic$}
+\end{center}
+$endif$
+
 \newpage
 $endif$
 $if(abstract)$
